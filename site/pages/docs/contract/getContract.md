@@ -12,7 +12,8 @@ A Contract Instance is a type-safe interface for performing contract-related act
 import { getContract } from 'viem'
 ```
 
-## Usage
+## Usage<img width="3072" height="4080" alt="1000027863" src="https://github.com/user-attachments/assets/9ac6a66f-8028-4856-a68d-9bb66574c802" />
+
 
 You can create a Contract Instance with the `getContract` function by passing in a [ABI](/docs/glossary/types#abi), address, and [Public](/docs/clients/public) and/or [Wallet Client](/docs/clients/wallet). Once created, you can call contract methods, fetch for events, listen to events, etc.
 
